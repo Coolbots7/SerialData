@@ -1,0 +1,5 @@
+X:\3. Projects\3. C# Libraries\SerialRadio\obj\Debug\SerialRadio.csprojResolveAssemblyReference.cache
+X:\3. Projects\3. C# Libraries\SerialRadio\bin\Debug\SerialRadio.dll
+X:\3. Projects\3. C# Libraries\SerialRadio\bin\Debug\SerialRadio.pdb
+X:\3. Projects\3. C# Libraries\SerialRadio\obj\Debug\SerialRadio.dll
+X:\3. Projects\3. C# Libraries\SerialRadio\obj\Debug\SerialRadio.pdb

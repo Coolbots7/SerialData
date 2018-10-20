@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialDataTest", "RobotMotorSerialView\SerialDataTest.csproj", "{D44B526C-D132-433F-AA93-E2B9C239C8F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialDataForm", "..\..\3. C# Libraries\SerialDataForm\SerialDataForm.csproj", "{FA8EE8A6-CBAB-4705-BEE7-E11FCC63BB49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialData", "..\..\3. C# Libraries\SerialData\SerialData\SerialData.csproj", "{F6C23C95-7136-4369-9587-8355CFD6F537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D44B526C-D132-433F-AA93-E2B9C239C8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44B526C-D132-433F-AA93-E2B9C239C8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44B526C-D132-433F-AA93-E2B9C239C8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44B526C-D132-433F-AA93-E2B9C239C8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8EE8A6-CBAB-4705-BEE7-E11FCC63BB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8EE8A6-CBAB-4705-BEE7-E11FCC63BB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8EE8A6-CBAB-4705-BEE7-E11FCC63BB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8EE8A6-CBAB-4705-BEE7-E11FCC63BB49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C23C95-7136-4369-9587-8355CFD6F537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C23C95-7136-4369-9587-8355CFD6F537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C23C95-7136-4369-9587-8355CFD6F537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C23C95-7136-4369-9587-8355CFD6F537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

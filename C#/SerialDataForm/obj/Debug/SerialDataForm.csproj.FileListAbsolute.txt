@@ -1,0 +1,22 @@
+Y:\3. Projects\3. C# Libraries\SerialDataForm\obj\Debug\SerialDataForm.csprojResolveAssemblyReference.cache
+Y:\3. Projects\3. C# Libraries\SerialDataForm\obj\Debug\SerialDataForm.Properties.Resources.resources
+Y:\3. Projects\3. C# Libraries\SerialDataForm\obj\Debug\SerialDataForm.SerialDataForm.resources
+Y:\3. Projects\3. C# Libraries\SerialDataForm\obj\Debug\SerialDataForm.csproj.GenerateResource.Cache
+Y:\3. Projects\3. C# Libraries\SerialDataForm\bin\Debug\SerialDataForm.exe.config
+Y:\3. Projects\3. C# Libraries\SerialDataForm\bin\Debug\SerialDataForm.exe
+Y:\3. Projects\3. C# Libraries\SerialDataForm\bin\Debug\SerialDataForm.pdb
+Y:\3. Projects\3. C# Libraries\SerialDataForm\bin\Debug\SerialData.dll
+Y:\3. Projects\3. C# Libraries\SerialDataForm\bin\Debug\SerialData.pdb
+Y:\3. Projects\3. C# Libraries\SerialDataForm\obj\Debug\SerialDataForm.exe
+Y:\3. Projects\3. C# Libraries\SerialDataForm\obj\Debug\SerialDataForm.pdb
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialDataForm\bin\Debug\SerialDataForm.exe.config
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialDataForm\bin\Debug\SerialDataForm.exe
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialDataForm\bin\Debug\SerialDataForm.pdb
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialDataForm\bin\Debug\SerialData.dll
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialDataForm\bin\Debug\SerialData.pdb
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialDataForm\obj\Debug\SerialDataForm.csprojResolveAssemblyReference.cache
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialDataForm\obj\Debug\SerialDataForm.Properties.Resources.resources
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialDataForm\obj\Debug\SerialDataForm.SerialDataForm.resources
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialDataForm\obj\Debug\SerialDataForm.csproj.GenerateResource.Cache
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialDataForm\obj\Debug\SerialDataForm.exe
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialDataForm\obj\Debug\SerialDataForm.pdb

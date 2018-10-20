@@ -1,0 +1,16 @@
+Y:\3. Projects\1. Robot\SerialDataTest\RobotMotorSerialView\bin\Debug\RobotMotorSerialView.exe.config
+Y:\3. Projects\1. Robot\SerialDataTest\RobotMotorSerialView\bin\Debug\RobotMotorSerialView.exe
+Y:\3. Projects\1. Robot\SerialDataTest\RobotMotorSerialView\bin\Debug\RobotMotorSerialView.pdb
+Y:\3. Projects\1. Robot\SerialDataTest\RobotMotorSerialView\bin\Debug\SerialData.dll
+Y:\3. Projects\1. Robot\SerialDataTest\RobotMotorSerialView\bin\Debug\SerialDataForm.exe
+Y:\3. Projects\1. Robot\SerialDataTest\RobotMotorSerialView\bin\Debug\SerialDataForm.pdb
+Y:\3. Projects\1. Robot\SerialDataTest\RobotMotorSerialView\bin\Debug\SerialData.pdb
+Y:\3. Projects\1. Robot\SerialDataTest\RobotMotorSerialView\obj\Debug\SerialDataTest.csprojResolveAssemblyReference.cache
+Y:\3. Projects\1. Robot\SerialDataTest\RobotMotorSerialView\obj\Debug\RobotMotorSerialView.Properties.Resources.resources
+Y:\3. Projects\1. Robot\SerialDataTest\RobotMotorSerialView\obj\Debug\RobotMotorSerialView.SerialDatTest.resources
+Y:\3. Projects\1. Robot\SerialDataTest\RobotMotorSerialView\obj\Debug\SerialDataTest.csproj.GenerateResource.Cache
+Y:\3. Projects\1. Robot\SerialDataTest\RobotMotorSerialView\obj\Debug\RobotMotorSerialView.exe
+Y:\3. Projects\1. Robot\SerialDataTest\RobotMotorSerialView\obj\Debug\RobotMotorSerialView.pdb
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialDataTest\RobotMotorSerialView\bin\Debug\RobotMotorSerialView.exe.config
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialDataTest\RobotMotorSerialView\obj\Debug\RobotMotorSerialView.exe
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialDataTest\RobotMotorSerialView\obj\Debug\RobotMotorSerialView.pdb

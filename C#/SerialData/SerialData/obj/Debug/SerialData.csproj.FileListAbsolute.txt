@@ -1,0 +1,10 @@
+Y:\3. Projects\3. C# Libraries\SerialData\SerialData\bin\Debug\SerialData.dll
+Y:\3. Projects\3. C# Libraries\SerialData\SerialData\bin\Debug\SerialData.pdb
+Y:\3. Projects\3. C# Libraries\SerialData\SerialData\obj\Debug\SerialData.csprojResolveAssemblyReference.cache
+Y:\3. Projects\3. C# Libraries\SerialData\SerialData\obj\Debug\SerialData.dll
+Y:\3. Projects\3. C# Libraries\SerialData\SerialData\obj\Debug\SerialData.pdb
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialData\SerialData\bin\Debug\SerialData.dll
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialData\SerialData\bin\Debug\SerialData.pdb
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialData\SerialData\obj\Debug\SerialData.csprojResolveAssemblyReference.cache
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialData\SerialData\obj\Debug\SerialData.dll
+Y:\3. Projects\3. Libraries\3. C# Libraries\SerialData\SerialData\obj\Debug\SerialData.pdb
